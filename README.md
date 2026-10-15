@@ -1,1 +1,1 @@
-# Artigo-t-cnico
+# Artigo-tecnico
