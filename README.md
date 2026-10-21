@@ -2,7 +2,7 @@
 
 Página web e artigo técnico desenvolvidos para a disciplina de **Modelagem de Banco de Dados** (Braz Cubas)[cite: 1]. O projeto aborda o processo sistemático de normalização de dados, eliminação de redundâncias e aplicação das Formas Normais (1FN, 2FN e 3FN) para evitar anomalias em sistemas relacionais.
 
-📍 **URL da Página Publicada:** [https://jbettuz211.github.io/desnormalizacao-db](https://jbettuz211.github.io/desnormalizacao-db)
+📍 **URL da Página Publicada:** [https://jbettuz211.github.io/desnormalizacao-db](https://edgardbmth.github.io/Artigo-tecnico/)
 
 ---
 
